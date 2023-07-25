@@ -1,4 +1,4 @@
-![logo](https://github.com/Rht404/Rohit/blob/main/thumb-1920-1108171.png)
+![logo](https://github.com/Rht404/Rht404/blob/main/istockphoto-1518851086-612x612.jpg)
 <h1 align="center">Hii 👋, It's Rohit here!</h1>
 <h3 align="center">A passionate programmer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
