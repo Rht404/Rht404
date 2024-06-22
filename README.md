@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **C & Python programming**
+- 💬 Ask me about **C,Python, R programming & Machine Learning Data Visualization**
 
 - 📫 How to reach me **krht304@gmail.com**
 
